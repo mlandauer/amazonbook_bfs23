@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 ini_set('memory_limit', '812M');
 set_time_limit(0);
 require 'scraperwiki/simple_html_dom.php';
